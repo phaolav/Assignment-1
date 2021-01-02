@@ -1,5 +1,5 @@
-function greetFriend(name) {
-  // Insert code here;
+function greetFriend(Albert) {
+ return Albert + ", Hello, Albert!";
 }
 
 // Do not edit this line;
